@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recorder">Recorder</string>
+    <string name="recordings">Recordings</string>
+    <string name="audio_Recorder">Audio Recorder</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voice Record</string>
+    <string name="recorder">Recorder</string>
+    <string name="recordings">Recordings</string>
+    <string name="audio_Recorder">Audio Recorder</string>
+    <string name="press_mic_to_record">Press Mic Icon to Start/Stop Recording</string>
+</resources>
