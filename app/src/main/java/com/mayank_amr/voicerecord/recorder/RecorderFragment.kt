@@ -2,12 +2,10 @@ package com.mayank_amr.voicerecord.recorder
 
 import android.Manifest
 import android.annotation.SuppressLint
-import android.content.ContentValues.TAG
 import android.content.pm.PackageManager
 import android.media.MediaRecorder
 import android.os.Bundle
 import android.os.SystemClock
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -15,7 +13,6 @@ import android.widget.Chronometer
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import androidx.fragment.app.Fragment
-import androidx.lifecycle.ViewModelProvider
 import com.mayank_amr.voicerecord.R
 import kotlinx.android.synthetic.main.recorder_fragment.*
 import java.text.SimpleDateFormat
@@ -38,7 +35,6 @@ class RecorderFragment : Fragment() {
         fun newInstance() = RecorderFragment()
     }
 
-    private lateinit var viewModel: RecorderViewModel
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -88,9 +84,6 @@ class RecorderFragment : Fragment() {
         })
 
 
-
-        viewModel = ViewModelProvider(this).get(RecorderViewModel::class.java)
-        Log.e(TAG, "onActivityCreated: .................................................\n")
     }
 
 
