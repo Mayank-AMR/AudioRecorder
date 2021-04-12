@@ -9,9 +9,9 @@
 ### Screenshots
 
 <p align="center">
-  <img src="https://github.com/Mayank-AMR/ProjectsScreenShots/blob/main/Screenshot_2021-04-12-12-27-17-618_com.mayank_amr.voicerecord.jpg" width="350" title="ScreenShot 1">
+  <img src="https://github.com/Mayank-AMR/ProjectsScreenShots/blob/main/voiceRecorder_1.png" width="350" title="ScreenShot 1">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Mayank-AMR/ProjectsScreenShots/blob/main/Screenshot_2021-04-12-12-29-34-043_com.mayank_amr.voicerecord.jpg" width="350" alt="accessibility text">
+  <img src="https://github.com/Mayank-AMR/ProjectsScreenShots/blob/main/voiceRecorder_2.png" width="350" alt="accessibility text">
 </p>
